@@ -77,7 +77,7 @@ This information was essential for creating tests that used **boundary values**,
 
 ## 🧪 Derived Test Cases
 
-From these requirements, I designed **35+ manual test cases** that covered:
+From these requirements, I designed **32+ manual test cases** that covered:
 
 - ✅ Positive and ❌ negative scenarios  
 - Validation of required and optional parameters  
@@ -85,7 +85,6 @@ From these requirements, I designed **35+ manual test cases** that covered:
 - HTTP response and JSON structure verification  
 - Test result tracking (`Passed` / `Failed`)  
 
-📎 [Download Excel Test Case File](#)
 
 👀 *Preview:* Test Case Excel Sheet  
 
