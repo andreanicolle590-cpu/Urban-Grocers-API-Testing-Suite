@@ -1,7 +1,7 @@
 # 🧪 Urban Grocers API Testing Suite
 
 ## 🎯 Project Overview
-This project marks a key milestone in my career shift from Industrial Engineer to QA Engineer.  
+This project marks a key milestone in my career shift from Energy Engineer to QA Engineer.  
 Urban Grocers is a grocery delivery platform where I had the opportunity to **design and execute manual tests** on two core features: **product kit management** and **delivery service calculations**.
 
 Throughout this process, I applied structured testing techniques, documented real defects, and strengthened my skills using **Postman**, **Excel**, and **JIRA**.
@@ -91,9 +91,6 @@ From these requirements, I designed **32+ manual test cases** that covered:
 <img width="1260" height="631" alt="image" src="https://github.com/user-attachments/assets/823b13f6-5af9-484c-a209-c6dc47d89889" />
 
 ## 🧭 My QA Journey
-
-As an **Industrial Engineer**, I have always been connected to quality processes, audits, and continuous improvement.  
-Discovering the world of **Software QA** allowed me to apply that same mindset in a digital context—combining logic, precision, and documentation.
 
 This project showed me that quality is not only inspected in a factory—it’s also **built into the code**.  
 Every test case I designed and every bug I documented contributed to my growth as a technical professional.
